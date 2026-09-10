@@ -1,6 +1,7 @@
 # CS 495 LMS Deliverable Descriptions
 
 GitHub is the authoritative project record. LMS submissions are snapshots and links to the current state.
+GitHub IDs: monicadelaine and chirix33 
 
 ***All submissions are due at 1:30pm***
 

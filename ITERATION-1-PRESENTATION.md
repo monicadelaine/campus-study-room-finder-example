@@ -36,6 +36,30 @@ the following:
     work was verified. If there was no significant AI use, state that
     briefly.
 
+
+## Required Presentation 3 Content
+
+Your team may organize the slides however you choose, but cover all of
+the following:
+
+-   **Project & Iteration Goal** --- Briefly remind us what the project
+    does and state what the team intended to accomplish in Iteration 1.
+-   **Major Accomplishments** --- Highlight the most important product
+    and engineering outcomes. Include important sponsor feedback when it
+    affected the work.
+-   **Plan vs. Actual** --- Explain what was accomplished and what is left.  Explain the delta
+-   **Sponsor feedback** --- More in depth
+-   **Engineering & Quality** --- Overall approach to quality (number of commits, PRs, testing plan, etc)
+-   **Team Contributions** --- Make major areas of ownership and
+    collaboration clear. These should be supported by GitHub Issues,
+    PRs, commits, reviews, stand-ups, and/or the Team Contributions
+    view.
+-   **Lessons Learned & Next Steps** --- Identify important product,
+    technical, or process learning and explain how it affects Iteration
+    3.
+
+
+
 ## Live Demo --- 2 Minutes
 
 Demonstrate the most important **working, integrated functionality**
